@@ -8,7 +8,7 @@ Experimentado desarrollador especializado en tecnologías Front-End vanguardista
 
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [Mi portafolio](http://axxving.com)
-* ✉️  You can contact me at [ale.hz.contacto@gmail.com](mailto:axxving@gmail.com)
+* ✉️  You can contact me at [axxving@gmail.com](mailto:axxving@gmail.com)
 * 🧠  I'm learning React.js, Vue.js, Astro, Express.js, Node.js
 
 ### Skills

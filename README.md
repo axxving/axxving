@@ -7,8 +7,8 @@ Desarrollador Front-End
 Experimentado desarrollador especializado en tecnologías Front-End vanguardistas. Poseo un dominio sólido en JavaScript, Bootstrap, ReactJS y Astro, con una pasión innata por crear experiencias web excepcionales y dinámicas.
 
 * 🌍  I'm based in México
-* 🖥️  See my portfolio at [Mi portafolio](http://alejandro-hrz.netlify.app/)
-* ✉️  You can contact me at [ale.hz.contacto@gmail.com](mailto:ale.hz.contacto@gmail.com)
+* 🖥️  See my portfolio at [Mi portafolio](http://axxving.com)
+* ✉️  You can contact me at [ale.hz.contacto@gmail.com](mailto:axxving@gmail.com)
 * 🧠  I'm learning React.js, Vue.js, Astro, Express.js, Node.js
 
 ### Skills

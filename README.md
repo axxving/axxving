@@ -13,7 +13,7 @@ const axxving = {
   rol: "Desarrollador Full Stack",
   especialidades: ["Desarrollo Web", "Apps Móviles", "Aplicaciones de Escritorio"],
   enfoque: "Crear experiencias de usuario increíbles",
-  datosCuriosos: "Convierto café en código ☕️"
+  datosCuriosos: "Transformo ideas en código 💡"
 };
 ```
 

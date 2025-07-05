@@ -54,36 +54,6 @@ const axxving = {
 **Firebase** (Backend como Servicio) + **React** (Frontend)
 > Desarrollo rápido con características en tiempo real
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axxving&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxving&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados" />
-</div>
-
-## 🔥 Racha de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axxving&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</div>
-
-## 🎯 Actualmente Trabajando En
-
-- 🚀 Construyendo aplicaciones web innovadoras
-- 📱 Desarrollando soluciones móviles multiplataforma
-- 🖥️ Creando aplicaciones de escritorio
-- 🌟 Contribuyendo a proyectos de código abierto
-
-## 🌟 Datos Curiosos
-
-- 🎮 Me encanta crear juegos y aplicaciones interactivas
-- 🚀 Siempre explorando nuevas tecnologías y frameworks
-- 🌍 Creo en código que hace la diferencia
-- 📚 Aprendiz continuo y solucionador de problemas
-
 ## 📫 ¡Conectemos!
 
 ¡Siempre estoy abierto a conversaciones interesantes y oportunidades de colaboración!

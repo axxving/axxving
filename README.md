@@ -40,20 +40,6 @@ const axxving = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🛠️ Mis Stacks Favoritos
-
-### 🌐 **Stack MERN**
-**M**ongoDB + **E**xpress + **R**eact + **N**ode.js
-> Perfecto para construir aplicaciones web escalables
-
-### 🐍 **Django + React**
-**Django** (Backend) + **React** (Frontend)
-> Combinación poderosa para soluciones web robustas
-
-### 🔥 **Firebase + React**
-**Firebase** (Backend como Servicio) + **React** (Frontend)
-> Desarrollo rápido con características en tiempo real
-
 ## 📫 ¡Conectemos!
 
 ¡Siempre estoy abierto a conversaciones interesantes y oportunidades de colaboración!

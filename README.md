@@ -2,7 +2,6 @@
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-axxving.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axxving.com)
 [![Email](https://img.shields.io/badge/Email-axxving@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axxving@gmail.com)
-[![Workana](https://img.shields.io/badge/Workana-Contratar-00A859?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/0b17cbf4fa4c136c8c4c07fd053ef88d)
 
 ## Sobre Mí
 
@@ -39,8 +38,6 @@ const axxving = {
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-**Adicionales**: Jest, Axios, Fetch, npm, WordPress Headless
-
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -72,5 +69,3 @@ Siempre estoy abierto a conversaciones interesantes y oportunidades de colaborac
 [![Portafolio](https://img.shields.io/badge/Visita_mi_Portafolio-axxving.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axxving.com)
 
 [![Email](https://img.shields.io/badge/Envíame_un_Email-axxving@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axxving@gmail.com)
-
-[![Workana](https://img.shields.io/badge/Contrata_en_Workana-axxving-00A859?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/0b17cbf4fa4c136c8c4c07fd053ef88d)
